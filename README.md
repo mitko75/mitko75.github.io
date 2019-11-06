@@ -2,7 +2,7 @@
 
 
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+
 
 
 ### Copyright
